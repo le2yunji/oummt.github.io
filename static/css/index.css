@@ -159,15 +159,13 @@ body {
 
 .columns {
   margin-top: 30px;
-
-
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .image-box, .text {
-  width: 480px;
+  width: 470px;
   height: auto;
   margin: 10px;
   object-fit: contain;
@@ -179,9 +177,7 @@ body {
 
 .scene {
   width: 960px;
-
   max-width: 100%;
-  
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -199,6 +195,13 @@ body {
     width: 90%;
     height: auto;
     aspect-ratio: 16 / 9;
+  }
+
+  .text:nth-child(odd) {
+    margin-bottom: 80px;
+  }
+  .image-box:nth-child(even) {
+    margin-bottom: 50px;
   }
 }
 
