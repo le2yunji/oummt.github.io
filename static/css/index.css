@@ -163,22 +163,24 @@ body {
   justify-content: center;
 } */
 
-
-.columns .images {
+.columns .column {
   display: flex;
-  flex-direction: column; /* 각 .scene 블럭을 수직 정렬 */
-  align-items: center;
-  gap: 10px; /* 장면 간 간격 */
-}
-
-.columns .scene {
-  display: flex;
-  flex-direction: row;  /* 한 장면 내 이미지들 수평 정렬 */
+  flex-direction: column;
   justify-content: center;
-  gap: 10px; /* 이미지 간 간격 */
+  margin: 0 auto;
+  width: 960px;
+  flex-grow: 1;
 }
 
-.columns .scene img {
+.columns .scene{
+  display: flex;
+  flex-direction: row;  
+}
+
+.columns .scene img{
   width: 480px;
   height: 270px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
+
