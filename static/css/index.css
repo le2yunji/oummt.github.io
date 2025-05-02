@@ -157,8 +157,9 @@ body {
 }
 
 
-.images {
+.images img{
   width: 960px;
   height: 270px;
-  gap: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
