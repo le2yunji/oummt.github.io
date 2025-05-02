@@ -186,3 +186,9 @@ body {
   margin-bottom: 10px; */
 }
 
+.columns .column .scene .text {
+  width: 480px;
+  height: 70px;
+  /* margin-top: 10px;
+  margin-bottom: 10px; */
+}
