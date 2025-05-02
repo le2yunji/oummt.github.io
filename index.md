@@ -31,12 +31,30 @@ data: "https://github.com/your-repo/dataset"
     </div>
   </div>
   <div class="column images">
-        <img src = "images/1.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/2.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/3.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/4.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/5.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/6.png" alt = "Example 001" style="display: block; margin: auto;">
+    <div class="scene">
+      <img src="images/1subway.png" alt="지하철 장면" style="display: block; margin: auto;">
+      <img src="images/1subway_text.png" alt="지하철 설명" style="display: block; margin: auto;">
+    </div>
+    <div class="scene">
+      <img src="images/2cafe.png" alt="카페 장면" style="display: block; margin: auto;">
+      <img src="images/2cafe_text.png" alt="카페 설명" style="display: block; margin: auto;">
+    </div>
+    <div class="scene">
+      <img src="images/3class.png" alt="수업 장면" style="display: block; margin: auto;">
+      <img src="images/3class_text.png" alt="수업 설명" style="display: block; margin: auto;">
+    </div>
+    <div class="scene">
+      <img src="images/4bakery.png" alt="베이커리 장면" style="display: block; margin: auto;">
+      <img src="images/4bakery_text.png" alt="베이커리 설명" style="display: block; margin: auto;">
+    </div>
+    <div class="scene">
+      <img src="images/5gpt.png" alt="GPT 장면" style="display: block; margin: auto;">
+      <img src="images/5gpt_text.png" alt="GPT 설명" style="display: block; margin: auto;">
+    </div>
+    <div class="scene">
+      <img src="images/6house.png" alt="집 장면" style="display: block; margin: auto;">
+      <img src="images/6house_text.png" alt="집 설명" style="display: block; margin: auto;">
+    </div>
   </div>
 
 </div>

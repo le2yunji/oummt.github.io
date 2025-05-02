@@ -160,18 +160,22 @@ body {
 .columns {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
-.images {
+.columns .images {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   margin: 0 auto;
   width: 960px;
   flex-grow: 1;
-  position: relative;
 }
 
-.images>img{
-  display: block;
-  width: 960px;
+.columns .images>img{
+  display: flex;
+  flex-direction: row;  
+  width: 480px;
   height: 270px;
   margin-top: 10px;
   margin-bottom: 10px;
