@@ -170,6 +170,7 @@ body {
 }
 
 .images>img{
+  display: block;
   width: 960px;
   height: 270px;
   margin-top: 10px;
