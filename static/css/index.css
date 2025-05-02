@@ -158,8 +158,8 @@ body {
 }
 
 .images {
+  margin: 0 auto;
   width: 960px;
-  /* height: calc(); */
   flex-grow: 1;
   position: relative;
 }
