@@ -29,29 +29,29 @@ data: "https://github.com/your-repo/dataset"
     <div class="content has-text-justified">
       나는야 말하는 감자!  스스로를 ‘감자’라 부르며 웃픈 대학생활을 버텨봤나요? <br /> 대학생 감자 ‘대감이’의 좌충우돌 하루를 담은 인터랙티브 콘텐츠를 준비했어요! <br /> 소소한 일상 속에서 공감과 담담한 위로를 느끼며, 대감이와 함께 귀여운 휴식을 즐겨보세요!
     </div>
-    <div class="scene">
-      <img class="image-box" src="images/1subway.png" alt="지하철 장면" style="display: block; margin: auto;">
-      <img class="text" src="images/1subway_text.png" alt="지하철 설명" style="display: block; margin: auto;">
+     <div class="scene">
+      <div class="image-box" style="background-image: url('images/1subway.png');"></div>
+      <div class="text" style="background-image: url('images/1subway_text.png');"></div>
     </div>
     <div class="scene">
-      <img class="text" src="images/2cafe_text.png" alt="카페 설명" style="display: block; margin: auto;">
-      <img class="image-box" src="images/2cafe.png" alt="카페 장면" style="display: block; margin: auto;">
+      <div class="text" style="background-image: url('images/2cafe_text.png');"></div>
+      <div class="image-box" style="background-image: url('images/2cafe.png');"></div>
     </div>
     <div class="scene">
-      <img class="image-box" src="images/3class.png" alt="수업 장면" style="display: block; margin: auto;">
-      <img class="image-box text" src="images/3class_text.png" alt="수업 설명" style="display: block; margin: auto;">
+      <div class="image-box" style="background-image: url('images/3class.png');"></div>
+      <div class="text" style="background-image: url('images/3class_text.png');"></div>
     </div>
     <div class="scene">
-      <img class="text" src="images/4bakery_text.png" alt="베이커리 설명" style="display: block; margin: auto;">
-      <img class="image-box" src="images/4bakery.png" alt="베이커리 장면" style="display: block; margin: auto;">
+      <div class="text" style="background-image: url('images/4bakery_text.png');"></div>
+      <div class="image-box" style="background-image: url('images/4bakery.png');"></div>
     </div>
     <div class="scene">
-      <img class="image-box" src="images/5gpt.png" alt="GPT 장면" style="display: block; margin: auto;">
-      <img class="text" src="images/5gpt_text.png" alt="GPT 설명" style="display: block; margin: auto;">
+      <div class="image-box" style="background-image: url('images/5gpt.png');"></div>
+      <div class="text" style="background-image: url('images/5gpt_text.png');"></div>
     </div>
     <div class="scene">
-      <img class="text" src="images/6house_text.png" alt="집 설명" style="display: block; margin: auto;">
-      <img class="image-box" src="images/6house.png" alt="집 장면" style="display: block; margin: auto;">
+      <div class="text" style="background-image: url('images/6house_text.png');"></div>
+      <div class="image-box" style="background-image: url('images/6house.png');"></div>
     </div>
   </div>
 </div>
