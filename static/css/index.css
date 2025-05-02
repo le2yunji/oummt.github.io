@@ -1,5 +1,6 @@
 body {
   font-family: 'Noto Sans', sans-serif;
+  box-sizing: border-box;
 }
 
 
@@ -156,6 +157,12 @@ body {
   border-radius: 5px;
 }
 
+.images {
+  width: 960px;
+  /* height: calc(); */
+  flex-grow: 1;
+  position: relative;
+}
 
 .images img{
   width: 960px;

@@ -27,18 +27,18 @@ data: "https://github.com/your-repo/dataset"
   <div class="column is-four-fifths">
     <h2>Abstract</h2>
     <div class="content has-text-justified">
-    나는야 말하는 감자!  스스로를 ‘감자’라 부르며 웃픈 대학생활을 버텨봤나요? <br /> 대학생 감자 ‘대감이’의 좌충우돌 하루를 담은 인터랙티브 콘텐츠를 준비했어요! <br> 소소한 일상 속에서 공감과 담담한 위로를 느끼며, 대감이와 함께 귀여운 휴식을 즐겨보세요!
+      나는야 말하는 감자!  스스로를 ‘감자’라 부르며 웃픈 대학생활을 버텨봤나요? <br /> 대학생 감자 ‘대감이’의 좌충우돌 하루를 담은 인터랙티브 콘텐츠를 준비했어요! <br /> 소소한 일상 속에서 공감과 담담한 위로를 느끼며, 대감이와 함께 귀여운 휴식을 즐겨보세요!
     </div>
-
+    <div class="column images">
+          <img src = "images/1.png" alt = "Example 001" style="display: block; margin: auto;">
+          <img src = "images/2.png" alt = "Example 001" style="display: block; margin: auto;">
+          <img src = "images/3.png" alt = "Example 001" style="display: block; margin: auto;">
+          <img src = "images/4.png" alt = "Example 001" style="display: block; margin: auto;">
+          <img src = "images/5.png" alt = "Example 001" style="display: block; margin: auto;">
+          <img src = "images/6.png" alt = "Example 001" style="display: block; margin: auto;">
+    </div>
   </div>
-      <div class="column images">
-        <img src = "images/1.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/2.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/3.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/4.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/5.png" alt = "Example 001" style="display: block; margin: auto;">
-        <img src = "images/6.png" alt = "Example 001" style="display: block; margin: auto;">
-    </div>
+
 
 </div>
 
