@@ -157,7 +157,7 @@ body {
   border-radius: 5px;
 }
 
-.column {
+.columns {
   display: flex;
   flex-direction: column;
 }
