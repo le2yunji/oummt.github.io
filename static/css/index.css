@@ -157,13 +157,13 @@ body {
   border-radius: 5px;
 }
 
-.columns {
+/* .columns {
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
+} */
 
-.columns .images {
+.columns .column {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -172,9 +172,12 @@ body {
   flex-grow: 1;
 }
 
-.columns .images>img{
+.columns .scene{
   display: flex;
   flex-direction: row;  
+}
+
+.columns .scene img{
   width: 480px;
   height: 270px;
   margin-top: 10px;
