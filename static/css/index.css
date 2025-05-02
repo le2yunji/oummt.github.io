@@ -157,6 +157,11 @@ body {
   border-radius: 5px;
 }
 
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
 .images {
   margin: 0 auto;
   width: 960px;
@@ -164,7 +169,7 @@ body {
   position: relative;
 }
 
-.images img{
+.images>img{
   width: 960px;
   height: 270px;
   margin-top: 10px;
