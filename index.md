@@ -20,20 +20,18 @@ data: "https://github.com/your-repo/dataset"
   <hr>
   <img src = "images/img.png" alt = "Example 001" style="display: block; margin: auto;">
 </body>
-
-
-<!-- Using HTML to center the abstract -->
+<!-- 
 <div class="columns is-centered has-text-centered">
   <div class="column" style="width: 960px">
-    <!-- <h2>Abstract</h2>
+    <h2>Abstract</h2>
     <div class="content has-text-justified">
       나는야 말하는 감자!  스스로를 ‘감자’라 부르며 웃픈 대학생활을 버텨봤나요? <br /> 대학생 감자 ‘대감이’의 좌충우돌 하루를 담은 인터랙티브 콘텐츠를 준비했어요! <br /> 소소한 일상 속에서 공감과 담담한 위로를 느끼며, 대감이와 함께 귀여운 휴식을 즐겨보세요!
-    </div> -->
-    <!-- <div class="scene">
-      <img class="image-box" src="images/img.png" alt="움트 소개" style="display: block; margin: auto;"> -->
-      <!-- <img class="text" src="images/1subway_text.png" alt="지하철 설명" style="display: block; margin: auto;"> -->
-    <!-- </div> -->
-    <!-- <div class="scene">
+    </div>
+    <div class="scene">
+      <img class="image-box" src="images/1subway.png" alt="지하철 장면" style="display: block; margin: auto;">
+      <img class="text" src="images/1subway_text.png" alt="지하철 설명" style="display: block; margin: auto;">
+    </div>
+    <div class="scene">
       <img class="text" src="images/2cafe_text.png" alt="카페 설명" style="display: block; margin: auto;">
       <img class="image-box" src="images/2cafe.png" alt="카페 장면" style="display: block; margin: auto;">
     </div>
@@ -52,9 +50,9 @@ data: "https://github.com/your-repo/dataset"
     <div class="scene">
       <img class="text" src="images/6house_text.png" alt="집 설명" style="display: block; margin: auto;">
       <img class="image-box" src="images/6house.png" alt="집 장면" style="display: block; margin: auto;">
-    </div> -->
+    </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- Dataset Download Buttons -->
@@ -88,21 +86,8 @@ We also provide RAW image files (DNG) along with metadata.
 </div>  
 Click the button above to evaluate your model on the SIDL benchmark. -->
 
-
-### ISP pipeline
-Coming soon
-
 <!-- 
-### Citation
-<pre><code class="language-bibtex">
-@inproceedings{choi2025sidl,
-  title     = {SIDL: A Real-World Dataset for Restoring Smartphone Images with Dirty Lenses},
-  author    = {Choi, Sooyoung and Park, Sungyong and Kim, Heewon},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume    = {39},
-  number    = {3},
-  pages     = {2545--2554},
-  year      = {2025}
-}
-</code></pre> -->
+### ISP pipeline
+Coming soon -->
+
 
