@@ -18,7 +18,7 @@ data: "https://github.com/your-repo/dataset"
 
 <body>
   <hr>
-  <img src = "images/img.png" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/image1.png" alt = "Example 001" style="display: block; margin: auto;">
 </body>
 <!-- 
 <div class="columns is-centered has-text-centered">
